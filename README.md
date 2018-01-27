@@ -16,8 +16,6 @@ HardChoice
 
 主页：http://hardchoice.yulingtianxia.com  
 
-![](http://7ni3rk.com1.z0.glb.clouddn.com/hardchoice.gif)  
-
 HardChoice代码教程地址：  
 
 - CoreData:http://yulingtianxia.com/blog/2014/07/03/chu-shi-core-data-3/  
